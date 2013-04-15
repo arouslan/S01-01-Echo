@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d092393-88d7-43bc-b52f-602996345283" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Eho.java" afterPath="$PROJECT_DIR$/src/Eho.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="S01-01 - Echo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,7 +74,7 @@
       <file leaf-file-name="Eho.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Eho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.48141593">
+            <state line="16" column="44" selection-start="506" selection-end="506" vertical-scroll-proportion="0.48141593">
               <folding />
             </state>
           </provider>
@@ -477,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Eho.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.48141593">
+        <state line="16" column="44" selection-start="506" selection-end="506" vertical-scroll-proportion="0.48141593">
           <folding />
         </state>
       </provider>
