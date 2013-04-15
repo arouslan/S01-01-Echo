@@ -6,6 +6,7 @@
  */
 public class Eho {
     public static void main(String[] args) {
+        System.out.println("Программа для вывода эха");
         if (args.length > 0) {
             // распечатаем все что попало в командную строку
             for (String arg : args) {
@@ -14,6 +15,7 @@ public class Eho {
         } else {
              // Вешаем эхо клавиатуры
             System.out.println("Тут будет эхо");
+
         }
 
     }
