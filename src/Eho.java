@@ -14,7 +14,7 @@ public class Eho {
             }
         } else {
              // Вешаем эхо клавиатуры
-            System.out.println("Тут будет эхо");
+            System.out.println("Тут будет эхо1");
 
         }
 
