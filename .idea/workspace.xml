@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d092393-88d7-43bc-b52f-602996345283" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/S01-01 - Echo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/S01_01___Echo_ear_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/application.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Eho.java" afterPath="$PROJECT_DIR$/src/Eho.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="S01-01 - Echo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,7 +75,7 @@
       <file leaf-file-name="Eho.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Eho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="46" selection-start="508" selection-end="508" vertical-scroll-proportion="0.48141593">
+            <state line="16" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.48141593">
               <folding />
             </state>
           </provider>
@@ -489,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Eho.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="508" selection-end="508" vertical-scroll-proportion="0.48141593">
+        <state line="16" column="45" selection-start="507" selection-end="507" vertical-scroll-proportion="0.48141593">
           <folding />
         </state>
       </provider>
