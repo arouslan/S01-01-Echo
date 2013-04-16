@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Author: Abushaev Ruslan
  * e-mail: rouslan@inbox.ru
@@ -9,14 +11,24 @@ public class Eho {
         System.out.println("Программа для вывода эха");
         if (args.length > 0) {
             // распечатаем все что попало в командную строку
+            System.out.println("Режим эха с командной строки");
             for (String arg : args) {
-              System.out.println("-> " + arg);
+                System.out.println("-> " + arg);
             }
         } else {
-             // Вешаем эхо клавиатуры
-            System.out.println("Тут будет эвхо1");
-
+            // Вешаем эхо клавиатуры
+            Scanner scn = new Scanner(System.in);
+            System.out.println("Режим эха с клавиатуры (для выхода exit)");
+            String sStr;
+            while (scn.hasNext() ) {
+                sStr = scn.next();
+                if(sStr.equalsIgnoreCase("exit")){
+                    break;
+                }
+                System.out.println("-> " + sStr);
+            }
+            System.out.println("Эхо выключено");
         }
-
     }
+
 }
